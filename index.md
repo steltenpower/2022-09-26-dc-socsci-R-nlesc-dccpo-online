@@ -423,6 +423,7 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+  Heel vervelend, maar waarschijnlijk moet je vantevoren ook <a href="https://medium.com/@ValidScience/how-to-fix-rstudios-package-installation-on-windows-10-c1e602bf3a1f">zorgen dat OneDrive stopt met RStudio saboteren</a>.<br>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
