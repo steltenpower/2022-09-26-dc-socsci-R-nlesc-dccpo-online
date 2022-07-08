@@ -51,6 +51,7 @@ set the `pilot` field to `true` in `_config.yml`.
 For workshops teaching a lesson in The Carpentries Incubator,
 remember to uncomment the `incubator_lesson_site`, `incubator_pre_survey`, and `incubator_post_survey`
 fields in `_config.yml`
+  <b>why is the schedule empty-ish? To be fixed</b>
 </div>
 
 {% comment %}
