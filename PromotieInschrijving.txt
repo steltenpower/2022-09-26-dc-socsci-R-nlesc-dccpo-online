@@ -26,13 +26,13 @@ Er wordt begonnen met wat basisinformatie over de R-syntaxis, de RStudio-interfa
 Voor wie: De cursus is primair gericht op onderzoekers, al zijn voor doceer-capaciteitsopbouw ook onderzoeksondersteuners welkom. Voorkennis van de tools die tijdens de workshop worden gepresenteerd is niet vereist, maar de installatie moet wel vooraf gebeuren.
 
 Vereisten: Deelnemers moeten werken op een computer met een Mac-, Linux- of Windows-besturingssysteem (geen tablet, Chromebook, enz.) waarop ze beheerdersrechten hebben.
-Ze zouden een paar specifieke softwarepakketten moeten hebben geïnstalleerd. Volg de [gedetailleerde instructies voor het instellen van software en gegevens https://steltenpower.github.io/2022-09-26-dc-socsci-R-nlesc-dccpo-online/setup/] evenals de [richtlijnen voor het instellen van videoconferenties https://steltenpower.github.io/2022-09-26-dc-socsci-R-nlesc-dccpo-online/#setup].
+Ze zouden een paar specifieke softwarepakketten moeten hebben geïnstalleerd. Volg de gedetailleerde instructies voor het instellen van software en gegevens evenals de richtlijnen voor het instellen van videoconferenties, zoals op de website van de workshop vermeldt.
 
 Waar: Deze training vindt online plaats. De instructeurs zullen u voorzien van de informatie die u nodig heeft om verbinding te maken met deze bijeenkomst.
 
-De workshop is open en gratis voor alle onderzoekers van hogescholen die deelnemen in DCC-PO..
+De workshop is open en gratis voor alle onderzoekers van hogescholen die deelnemen in DCC-PO.
 De workshop is gebaseerd op de stijl van lesgeven van de Carpentries, en de cursisten zullen volgen (dus letterlijk in de vingers krijgen), terwijl de instructeurs de code op het scherm schrijven.
-Meer informatie is te vinden op [de website van de workshop https://steltenpower.github.io/2022-09-26-dc-socsci-R-nlesc-dccpo-online/].
+Meer informatie is te vinden op [de website van de workshop https://steltenpower.github.io/2022-09-26-dc-socsci-R-nlesc-dccpo-online/] (nog niet helemaal correct, maar de datums zeker wel, block die in je agenda ajb).
 
 
 Ochtend 1
