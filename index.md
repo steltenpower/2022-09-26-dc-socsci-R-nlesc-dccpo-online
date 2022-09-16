@@ -395,17 +395,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+  Voer eerst de <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html">algemene Installatie/SetUp</a> uit.
 </p>
 <p>
   Heel vervelend, maar waarschijnlijk moet je vantevoren ook <a href="https://medium.com/@ValidScience/how-to-fix-rstudios-package-installation-on-windows-10-c1e602bf3a1f">zorgen dat OneDrive stopt met RStudio saboteren</a>.<br>
