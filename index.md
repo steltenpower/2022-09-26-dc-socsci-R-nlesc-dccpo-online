@@ -405,7 +405,8 @@ please preview your site before committing, and make sure to run
   We gebruiken als gezamenlijk kladblok <a href="https://hackmd.io/">hackMD</a><br><br>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.<br><br>
+  di 20 sept. van 15:00-17:00 is er een on-line sessie om je verder te helpen mocht er iets niet zijn gelukt.
 </p>
 
 {% comment %}
