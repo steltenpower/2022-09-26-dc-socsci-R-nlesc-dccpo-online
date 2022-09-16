@@ -392,6 +392,9 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
+<h2>Lesmateriaal</h2>
+<a href="https://datacarpentry.org/socialsci-workshop/">De dataset waarop de oefeningen uitgevoerd worden en het lesmateriaal zelf</a>
+
 <h2 id="setup">Setup</h2>
 
 <p>
