@@ -88,7 +88,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">General Information</h2>
+<h2 id="general">Reproduceerbaar analyseren voor praktijk-gerichte onderzoekers,<br>General Information</h2>
 
 {% comment %}
 INTRODUCTION
