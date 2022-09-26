@@ -401,8 +401,8 @@ please preview your site before committing, and make sure to run
   Voer eerst de <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html">algemene Installatie/SetUp</a> uit.
 </p>
 <p>
-  <del>Heel vervelend, maar waarschijnlijk moet je vantevoren ook <a href="https://medium.com/@ValidScience/how-to-fix-rstudios-package-installation-on-windows-10-c1e602bf3a1f">zorgen dat OneDrive stopt met RStudio saboteren</a> (wellicht kun je hier hulp van je IT-dienst voor gebruiken).<br></del>
-  <ins>Bovenstaande doorgestreepte tekst <a href="https://github.com/rstudio/rstudio/issues/8598#issuecomment-769270924">lijkt achterhaald</a></ins><br>
+  <del>Heel vervelend, maar waarschijnlijk moet je vantevoren ook <a href="https://medium.com/@ValidScience/how-to-fix-rstudios-package-installation-on-windows-10-c1e602bf3a1f">zorgen dat OneDrive stopt met RStudio saboteren</a> (wellicht kun je hier hulp van je IT-dienst voor gebruiken).<br></del><br>
+  Bovenstaande doorgestreepte tekst <a href="https://github.com/rstudio/rstudio/issues/8598#issuecomment-769270924">lijkt achterhaald</a><br><br>
   We gebruiken als gezamenlijk kladblok <a href="https://hackmd.io/">hackMD</a><br><br>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
